@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio1/static/css/main.eac47c65.chunk.css",
+    "main.js": "/portfolio1/static/js/main.61f0ed0c.chunk.js",
+    "main.js.map": "/portfolio1/static/js/main.61f0ed0c.chunk.js.map",
+    "runtime-main.js": "/portfolio1/static/js/runtime-main.09ae4260.js",
+    "runtime-main.js.map": "/portfolio1/static/js/runtime-main.09ae4260.js.map",
+    "static/js/2.a61593b8.chunk.js": "/portfolio1/static/js/2.a61593b8.chunk.js",
+    "static/js/2.a61593b8.chunk.js.map": "/portfolio1/static/js/2.a61593b8.chunk.js.map",
+    "static/js/3.5ba0b525.chunk.js": "/portfolio1/static/js/3.5ba0b525.chunk.js",
+    "static/js/3.5ba0b525.chunk.js.map": "/portfolio1/static/js/3.5ba0b525.chunk.js.map",
+    "index.html": "/portfolio1/index.html",
+    "static/css/main.eac47c65.chunk.css.map": "/portfolio1/static/css/main.eac47c65.chunk.css.map",
+    "static/js/2.a61593b8.chunk.js.LICENSE.txt": "/portfolio1/static/js/2.a61593b8.chunk.js.LICENSE.txt",
+    "static/media/CV_Abdurrahman_Alghifari.ae06a0c4.pdf": "/portfolio1/static/media/CV_Abdurrahman_Alghifari.ae06a0c4.pdf",
+    "static/media/App.css": "/portfolio1/static/media/linkedin2.6c56a236.png",
+    "static/media/laptop1.c88f2bfd.png": "/portfolio1/static/media/laptop1.c88f2bfd.png",
+    "static/media/samsung11.2d6e5349.png": "/portfolio1/static/media/samsung11.2d6e5349.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09ae4260.js",
+    "static/js/2.a61593b8.chunk.js",
+    "static/css/main.eac47c65.chunk.css",
+    "static/js/main.61f0ed0c.chunk.js"
+  ]
+}
