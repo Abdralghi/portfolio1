@@ -10,13 +10,13 @@ function App() {
       <div className="bg-1">
         <div>
           <div className="font-face-bg1">
-            <h1 style={{ color: "#4B4B4B" }}>
+            <h1 style={{ color: "#4b4b4b" }}>
               Hi, I'm
               <span> Abdurrahman Alghifari</span>
             </h1>
           </div>
           <div>
-            <p style={{ color: "#4B4B4B", fontFamily: "MuseoSans-100" }}>
+            <p style={{ color: "#4b4b4b", fontFamily: "MuseoSans-100" }}>
               In January 2021, I started my journey to become a programmer. I
               joined a 6-months full stack web development bootcamp at one of
               the well-known digital skill learning institutions, Purwadhika. I
